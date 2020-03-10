@@ -9,3 +9,18 @@ SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the
 
 [**TPOT:**](https://epistasislab.github.io/tpot/)
 Consider TPOT your Data Science Assistant. TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
+
+# Cool papers
+A list of cool papers I'm definetely going to read some day
+
+## Hyperparameter optimisation in RL
+[**Meta-Gradient Reinforcement Learning:**](https://arxiv.org/abs/1805.09801)
+Gradient based
+
+[**Population Based Training of Neural Networks:**](https://arxiv.org/abs/1711.09846)
+Evolutionary-based
+
+[**NEURAL ARCHITECTURE SEARCH WITH REINFORCEMENT LEARNING:**](https://openreview.net/pdf?id=r1Ue8Hcxg)
+
+[**Gradient descent hyper-parameters:**](https://arxiv.org/abs/1810.02525)
+
