@@ -10,10 +10,10 @@ SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the
 [**TPOT:**](https://epistasislab.github.io/tpot/)
 Consider TPOT your Data Science Assistant. TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
-[**Pycaret**](https://pycaret.org)
+[**Pycaret:**](https://pycaret.org)
 PyCaret is an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within minutes in your choice of notebook environment.
 
-[**Talos**](https://github.com/autonomio/talos)
+[**Talos:**](https://github.com/autonomio/talos)
 Talos radically changes the ordinary Keras workflow by fully automating hyperparameter tuning and model evaluation. Talos exposes Keras functionality entirely and there is no new syntax or templates to learn.
 
 # Cool papers
